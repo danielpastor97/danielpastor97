@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi folks 👋 
+
+##### Welcome to my GitHub profile. My name is Daniel and I am currently doing the first year of my MSc. degree in Biophysical Chemistry, on the study of the phase behaviour of membrane models using coarse-grained molecular dynamic. I am also writing code for the [@ProLint](https://github.com/ProLint) project as part of my thesis, and trying to collaborate on other projects just for fun!  
 
 <!--
 **danielpastor97/danielpastor97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
