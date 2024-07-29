@@ -1,5 +1,3 @@
-### Hi folks 👋 
-
 Welcome to my GitHub profile. My name is Daniel and I am currently completing my PhD degree in Biophysics at the University of Calgary. I am writing code for the [@ProLint](https://github.com/ProLint) project as part of my thesis, and trying to collaborate on other projects just for fun!  
 
 <!--
