@@ -1,1 +1,1 @@
-Welcome to my GitHub profile. I am a passionate programmer who enjoys problem-solving, data analysis, and finding algorithmic solutions to real-life problems. Currently pursuing my PhD degree in Biophysics at the University of Calgary. 
+Welcome to my GitHub profile. I am a passionate programmer who enjoys problem-solving and finding algorithmic solutions to real-life problems. Currently pursuing my PhD degree in Biophysics at the University of Calgary. 
