@@ -1,1 +1,1 @@
-Welcome to my GitHub profile. I am a passionate scientist who enjoys problem-solving and finding algorithmic solutions to real-life problems. PhD degree in molecular biophysics at the University of Calgary. 
+Welcome to my GitHub profile. I am a passionate scientist who enjoys problem-solving and finding algorithmic solutions to real-life problems. PhD in molecular biophysics from the University of Calgary. 
